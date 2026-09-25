@@ -1,0 +1,8 @@
+{
+  "name": "static-html-app-donottouch-3",
+  "deploy": {
+    "install": "true",
+    "build": "true",
+    "output_directory": "src"
+  }
+}
